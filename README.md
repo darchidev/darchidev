@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Fastify**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular** & **Qwik**
 
 <h3 align="left">Connect with me:</h3>
 https://www.linkedin.com/in/dario-chiapperini/
